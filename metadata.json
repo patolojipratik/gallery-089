@@ -1,0 +1,34 @@
+{
+  "gallery_id": "gallery-089",
+  "source_format": "SVS",
+  "source_dimensions": [
+    9024,
+    8448
+  ],
+  "source_levels": [
+    [
+      9024,
+      8448
+    ],
+    [
+      2256,
+      2112
+    ],
+    [
+      564,
+      528
+    ],
+    [
+      141,
+      132
+    ]
+  ],
+  "objective_power": "10",
+  "mpp_x": "1.1719999999999999",
+  "has_label": false,
+  "jpeg_quality": 72,
+  "jpeg_subsampling": 2,
+  "tile_size": 512,
+  "super_tile_size": 2048,
+  "encode_workers": 4
+}
